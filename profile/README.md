@@ -1,5 +1,6 @@
 ## Rappel hiérarchie des projets
 
+```
 \dev\factuElectro
 	\dev\factuElectro\libraries\...
 		AdinvUtils
@@ -23,3 +24,4 @@
 	- SqlUtil
 	stringExt
 	vive
+```
