@@ -21,7 +21,8 @@
 	OracleUtils
 	pathFiles
 	SignLib
-	- SqlUtil
+	SqlUtils
 	stringExt
 	vive
+    HFTools
 ```
