@@ -26,8 +26,7 @@
 │   ├── SignLib
 │   ├── SqlUtils
 │   ├── stringExt
-│   ├── vive
-│   └── HFTools
+│   └── vive
 │
 ├── Demat
 └── FeTiers
