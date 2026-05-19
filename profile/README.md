@@ -1,28 +1,31 @@
 ## Rappel hiérarchie des projets
 
 ```
-\dev\factuElectro
-	\dev\factuElectro\libraries\...
-		AdinvUtils
-		CBuildPdf
-		cycleVie
-		FactureFV10
-		FacturXReader
-		FacturXSender
-		FacturXWriter
-		LifeCycleDecoder
-		PAUtils
-
-	\\dev\factuElectro\mains\FacturX
-	\\dev\factuElectro\mains\GetPdfFromPA
-
-\dev\libraries\...
-	Hfcertifcs
-	OracleUtils
-	pathFiles
-	SignLib
-	SqlUtils
-	stringExt
-	vive
-    HFTools
+\dev
+├── factuElectro
+│   ├── libraries
+│   │   ├── AdinvUtils
+│   │   ├── CBuildPdf
+│   │   ├── cycleVie
+│   │   ├── FactureFV10
+│   │   ├── FacturXReader
+│   │   ├── FacturXSender
+│   │   ├── FacturXWriter
+│   │   ├── LifeCycleDecoder
+│   │   ├── PAUtils
+│   │   └── CodePassword
+│   │
+│   └── mains
+│       ├── FacturX
+│       └── GetPdfFromPA
+│
+└── libraries
+    ├── Hfcertifcs
+    ├── OracleUtils
+    ├── pathFiles
+    ├── SignLib
+    ├── SqlUtils
+    ├── stringExt
+    ├── vive
+    └── HFTools
 ```
