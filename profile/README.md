@@ -13,7 +13,7 @@
 │   │   ├── FacturXWriter
 │   │   ├── LifeCycleDecoder
 │   │   ├── PAUtils
-│   │   └── CodePassword
+│   │   └── HFCrypto
 │   │
 │   └── mains
 │       ├── FacturX
@@ -68,4 +68,5 @@ git clone $SRC_PATH/SignLib  "$DEST_PATH/libraries/SignLib"
 git clone $SRC_PATH/SqlUtils  "$DEST_PATH/libraries/SqlUtils"
 git clone $SRC_PATH/stringExt  "$DEST_PATH/libraries/stringExt"
 git clone $SRC_PATH/vive  "$DEST_PATH/libraries/vive"
+git clone $SRC_PATH/HFCrypto  "$DEST_PATH/libraries/HFCrypto" 
 ```
