@@ -17,7 +17,7 @@
 │   │
 │   └── mains
 │       ├── FacturX
-│       ├── feTiers
+│       ├── FeTiers
 │       ├── CheckTx2
 │       └── GetPdfFromPA
 │
@@ -48,6 +48,8 @@ DEST_PATH="C:/dev"
 # mains
 git clone $SRC_PATH/GetPdfFromPA "$DEST_PATH/factuElectro/mains/GetPdfFromPA"
 git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/FacturX"
+git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/FeTiers"
+git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/CheckTx2"
 git clone $SRC_PATH/Demat  "$DEST_PATH/Demat"
 
 # librairies (factuElectro)
