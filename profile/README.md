@@ -17,6 +17,8 @@
 │   │
 │   └── mains
 │       ├── FacturX
+│       ├── feTiers
+│       ├── CheckTx2
 │       └── GetPdfFromPA
 │
 ├── libraries
@@ -28,8 +30,7 @@
 │   ├── stringExt
 │   └── vive
 │
-├── Demat
-└── FeTiers
+└── Demat
 ```
 
 ## Script pour tout cloner
