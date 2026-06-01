@@ -13,12 +13,14 @@
 │   │   ├── FacturXWriter
 │   │   ├── LifeCycleDecoder
 │   │   ├── PAUtils
-│   │   └── HFCrypto
+│   │   └── HFCrypto 
+
 │   │
 │   └── mains
 │       ├── FacturX
 │       ├── FeTiers
 │       ├── CheckTx2
+│       ├── AutoThirdsRouterLines
 │       └── GetPdfFromPA
 │
 ├── libraries
@@ -50,6 +52,8 @@ git clone $SRC_PATH/GetPdfFromPA "$DEST_PATH/factuElectro/mains/GetPdfFromPA"
 git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/FacturX"
 git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/FeTiers"
 git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/CheckTx2"
+git clone $SRC_PATH/FacturX "$DEST_PATH/factuElectro/mains/AutoThirdsRouterLines"
+
 git clone $SRC_PATH/Demat  "$DEST_PATH/Demat"
 
 # librairies (factuElectro)
